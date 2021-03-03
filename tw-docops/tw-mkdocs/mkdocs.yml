@@ -2,7 +2,6 @@ site_name: Wizeline MkDocs Template
 nav:
   - Home: index.md
   - About: about.md
-  - Overview: overview.md
   - Installation Guide: installation.md
   - Concepts Guide: concepts.md
 
